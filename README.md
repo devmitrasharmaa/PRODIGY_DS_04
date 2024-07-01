@@ -1,1 +1,2 @@
-### This Project is addtional analysis on existing Sentiment Analysis Dataset of Twitter. I tried to analyse the patterns using barplots, then tried to use wordcloud to use kind of words used, then divided entity into categories for a better overview of data.
+### This Project is an addtional analysis on existing Sentiment Analysis Dataset of Twitter. I tried to analyse the patterns using barplots, then tried to use wordcloud to use kind of words used, then divided entity into categories for a better overview of data.
+### I also tried to compare existing model with VADER model and about a lot discrepancies, the given sentiments were actually way more accurate than one predicted by VADER model.
