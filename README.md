@@ -1,1 +1,1 @@
-# PRODIGY_DS_04
+### This Project is addtional analysis on existing Sentiment Analysis Dataset of Twitter. I tried to analyse the patterns using barplots, then tried to use wordcloud to use kind of words used, then divided entity into categories for a better overview of data.
